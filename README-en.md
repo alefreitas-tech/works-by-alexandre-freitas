@@ -24,4 +24,4 @@ This repository is a living space that reflects my journey, evolution, and passi
 Markdown, HTML, CSS, PHP, Python, Cybersecurity ...
 
 
-### ↩️ [Voltar](README.md) 
+### ↩️ [Back](README.md) 
